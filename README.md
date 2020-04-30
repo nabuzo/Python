@@ -9,6 +9,8 @@ This project contains a collection of python codes dealing with turtle graphics,
 ## *String Gibberish*
 
 ## *Turtle Clock*
+![Capture3](https://user-images.githubusercontent.com/60201371/80660802-5bc7e600-8a52-11ea-9b86-afddb97d122c.PNG)
+* A simple example of a turtle clock using for loops.
 
 ## *TurtleGraphics*
 ![Capture1](https://user-images.githubusercontent.com/60201371/80660429-4bfbd200-8a51-11ea-8adb-82f7f9b00caf.PNG)
